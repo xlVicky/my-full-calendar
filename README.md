@@ -11,6 +11,8 @@
 
 ### install
 
+// my full calendar  2017-12-4
+
 By NPM
 
 `@latest` works for Vue2
